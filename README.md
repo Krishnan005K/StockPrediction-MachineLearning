@@ -7,6 +7,8 @@ This project aims to predict the stock price of Netflix (NFLX) using a Long Shor
 # Dataset
 The dataset used for this project is the historical stock price data of Netflix (NFLX), which is obtained from the Yahoo Finance API. The dataset includes the opening stock price for each trading day.
 
+Example dataset(https://stfly.biz/6S2v9)
+
 # Implementation
 The implementation of the project is done in Python using the following libraries:
 
